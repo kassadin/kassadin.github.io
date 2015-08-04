@@ -1,2 +1,4 @@
-# kassadin.github.io
-pages
+MDwiki
+======
+
+See http://www.mdwiki.info/ for more documentation and details.
