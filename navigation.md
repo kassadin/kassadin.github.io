@@ -2,7 +2,7 @@
 
 [gimmick:theme](flatly)
 
-[Android](android)
+[Android](android/index.md)
 
 [Explore](explore/index.md)
 
