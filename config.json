@@ -1,6 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "email me kassadin@foxmail.com",
-    "anchorCharacter": "#"
+    "additionalFooterText": "Email Me kassadin#foxmail.com<br />",
+    "anchorCharacter": "#",
+    "title": "Kassadin Home"
 }
